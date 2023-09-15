@@ -1,0 +1,6 @@
+#Pastas
+fixtures/*
+node_modules/*
+plugins/*
+support/*
+
